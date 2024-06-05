@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "soundFile": "E:\\React\\ChatGPT\\backend\\audios\\intro_1.wav",
+    "duration": 3.52
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.09, "value": "X" },
+    { "start": 0.09, "end": 0.21, "value": "C" },
+    { "start": 0.21, "end": 0.28, "value": "B" },
+    { "start": 0.28, "end": 0.42, "value": "A" },
+    { "start": 0.42, "end": 0.59, "value": "B" },
+    { "start": 0.59, "end": 0.87, "value": "F" },
+    { "start": 0.87, "end": 1.01, "value": "B" },
+    { "start": 1.01, "end": 1.08, "value": "E" },
+    { "start": 1.08, "end": 1.15, "value": "F" },
+    { "start": 1.15, "end": 1.23, "value": "A" },
+    { "start": 1.23, "end": 1.40, "value": "C" },
+    { "start": 1.40, "end": 1.47, "value": "B" },
+    { "start": 1.47, "end": 1.55, "value": "A" },
+    { "start": 1.55, "end": 1.88, "value": "B" },
+    { "start": 1.88, "end": 2.16, "value": "E" },
+    { "start": 2.16, "end": 2.23, "value": "F" },
+    { "start": 2.23, "end": 2.30, "value": "G" },
+    { "start": 2.30, "end": 2.44, "value": "B" },
+    { "start": 2.44, "end": 2.51, "value": "E" },
+    { "start": 2.51, "end": 2.58, "value": "F" },
+    { "start": 2.58, "end": 3.00, "value": "E" },
+    { "start": 3.00, "end": 3.52, "value": "X" }
+  ]
+}
